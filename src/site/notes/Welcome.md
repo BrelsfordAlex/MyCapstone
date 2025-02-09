@@ -2,7 +2,19 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/Welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-Welcome site to come 
+# Welcome to My capstone
+**By:** Alexandria Brelsford
+**Capstone Year:** Spring 2025
+
+
+**This site will hold:**
+-  my class notes
+- my sources and notes on them
+- my personal due dates
+- my project itself 
+- resources for my project 
+
+
 # Due Dates
 ---
 
