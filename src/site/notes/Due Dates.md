@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Due Dates/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/Due Dates/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
