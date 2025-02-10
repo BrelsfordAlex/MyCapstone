@@ -3,7 +3,7 @@
 ---
 
 British Educational Research Journal ISSN 0141-1926 (print)/ISSN 1469-3518 (online)/11/050813-16 © 2011 British Educational Research Association DOI: 10.1080/01411926.2010.501096 Exploring inclusive pedagogy
-[[07112023-SDR-SEND-British-Educational-Res-J-2013-Florian-Exploring-inclusive-pedagogy.pdf]]
+[[07112023-SDR-SEND-British-Educational-Res-J-2013-Florian-Exploring-inclusive-pedagogy.pdf]][[PDFs and Images and Stuff/07112023-SDR-SEND-British-Educational-Res-J-2013-Florian-Exploring-inclusive-pedagogy/07112023-SDR-SEND-British-Educational-Res-J-2013-Florian-Exploring-inclusive-pedagogy\|07112023-SDR-SEND-British-Educational-Res-J-2013-Florian-Exploring-inclusive-pedagogy]]
 
 <iframe src="https://drive.google.com/file/d/1u89SyKZlDO9oM7fMGh2WDQ3bVTsLuVvK/preview" width="700" height="1000" ></iframe>
 # Notes about the article

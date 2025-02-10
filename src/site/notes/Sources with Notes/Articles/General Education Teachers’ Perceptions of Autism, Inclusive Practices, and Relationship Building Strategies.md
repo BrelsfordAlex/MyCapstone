@@ -19,3 +19,4 @@ the best ways to incorporate neurodiverse ways of inclusion into the curriculum 
 make.
 
 [[PDFs and Images and Stuff/General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies/General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies\|General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies]]
+[[General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies.pdf]]
