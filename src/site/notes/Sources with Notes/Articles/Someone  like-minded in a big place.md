@@ -16,6 +16,3 @@ mainstream supports that they are offered at schools, things like peer support, 
 times, and even some designs for better support. This will be useful because the practical
 implications and the suggested peer support designs can help me develop the space
 needed to eventually carry out the curriculum.
-
-[[crompton-et-al-2022-someone-like-minded-in-a-big-place-autistic-young-adults-attitudes-towards-autistic-peer-support-in\|crompton-et-al-2022-someone-like-minded-in-a-big-place-autistic-young-adults-attitudes-towards-autistic-peer-support-in]]
-[[crompton-et-al-2022-someone-like-minded-in-a-big-place-autistic-young-adults-attitudes-towards-autistic-peer-support-in.pdf\|crompton-et-al-2022-someone-like-minded-in-a-big-place-autistic-young-adults-attitudes-towards-autistic-peer-support-in.pdf]]

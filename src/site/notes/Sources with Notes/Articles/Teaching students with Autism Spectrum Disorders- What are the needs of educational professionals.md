@@ -6,7 +6,3 @@ van der Steen, Steffie & Geveke, Carla & Steenbakkers, Anne & Steenbeek, Henderi
 
 <iframe src="https://drive.google.com/file/d/1FhQbTwNUl9ov-LhUmAiSdDEgq0R5nLUK/preview" width="700" height="1000" ></iframe>
 # Notes about the article
-
-
-[[RaakQsortartikel_finalauthorversion\|RaakQsortartikel_finalauthorversion]]
-[[RaakQsortartikel_finalauthorversion.pdf\|RaakQsortartikel_finalauthorversion.pdf]]
