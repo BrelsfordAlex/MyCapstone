@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Autism","autismspectrum","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/A Three-Factor Model of Educational Practice Considerations for Teaching Neurodiverse Learners/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","autismspectrum","teachingmethod-mentioned","3factormethod"],"permalink":"/Sources with Notes/Articles/A Three-Factor Model of Educational Practice Considerations for Teaching Neurodiverse Learners/","dgPassFrontmatter":true}
 ---
 
 # References

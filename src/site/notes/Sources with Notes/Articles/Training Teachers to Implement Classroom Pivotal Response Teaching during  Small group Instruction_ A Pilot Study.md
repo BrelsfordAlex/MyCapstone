@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Autism","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Training Teachers to Implement Classroom Pivotal Response Teaching during  Small group Instruction_ A Pilot Study/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT"],"permalink":"/Sources with Notes/Articles/Training Teachers to Implement Classroom Pivotal Response Teaching during  Small group Instruction_ A Pilot Study/","dgPassFrontmatter":true}
 ---
 
 # References
@@ -160,7 +160,7 @@ Verschuur, Rianne, et al. “Training Teachers to Implement Classroom Pivotal Re
 
 ## Teaching Methods Used in the Paper
 
-- **Group Sessions**: Teachers participated in three two-hour group sessions conducted biweekly. These sessions introduced teachers to Applied Behavior Analysis (ABA), the ABC pattern of behavior, and Classroom Pivotal Response Teaching (CPRT). The sessions included didactic instruction, video examples, worksheets, and role-plays to teach antecedent and consequent CPRT components .
+- **Group Sessions**: Teachers participated in three two-hour group sessions conducted biweekly. These sessions introduced teachers to Applied Behavior Analysis (ABA), the ABC pattern of behavior, and ==Classroom Pivotal Response Teaching (CPRT)==. The sessions included didactic instruction, video examples, worksheets, and role-plays to teach antecedent and consequent CPRT components .
     
 - **Individual Coaching Sessions**: Following the group sessions, teachers received individual coaching approximately two weeks after the third group session. These sessions were conducted weekly and involved practicing CPRT components during small-group instruction. Trainers observed and videotaped the instruction, providing feedback based on the video .
     
