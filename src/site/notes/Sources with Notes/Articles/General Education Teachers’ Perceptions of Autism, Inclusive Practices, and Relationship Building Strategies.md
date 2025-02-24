@@ -18,5 +18,5 @@ ok how some teachers create inclusive classrooms. The article will be used to he
 the best ways to incorporate neurodiverse ways of inclusion into the curriculum I plan to
 make.
 
-[[PDFs and Images and Stuff/General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies/General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies\|General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies]]
-[[General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies.pdf]]
+[[General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies\|General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies]]
+[[General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies.pdf\|General Education Teachers Perceptions of Autism Inclusive Practices and Relationship Building Strategies.pdf]]

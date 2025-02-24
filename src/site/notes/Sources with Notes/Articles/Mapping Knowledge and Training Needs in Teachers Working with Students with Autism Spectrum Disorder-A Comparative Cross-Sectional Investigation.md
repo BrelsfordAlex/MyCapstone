@@ -20,5 +20,5 @@ impact a student learning in most situations. This article will help me not only
 what trainings work best to use and how can I improve my own teaching style to work
 with students with ASD.
 
-[[PDFs and Images and Stuff/MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder/MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder\|MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder]]
-[[MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder.pdf]]
+[[MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder\|MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder]]
+[[MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder.pdf\|MappingKnowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder.pdf]]

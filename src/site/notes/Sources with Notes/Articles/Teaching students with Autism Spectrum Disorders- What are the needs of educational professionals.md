@@ -8,5 +8,5 @@ van der Steen, Steffie & Geveke, Carla & Steenbakkers, Anne & Steenbeek, Henderi
 # Notes about the article
 
 
-[[PDFs and Images and Stuff/RaakQsortartikel_finalauthorversion/RaakQsortartikel_finalauthorversion\|RaakQsortartikel_finalauthorversion]]
-[[RaakQsortartikel_finalauthorversion.pdf]]
+[[RaakQsortartikel_finalauthorversion\|RaakQsortartikel_finalauthorversion]]
+[[RaakQsortartikel_finalauthorversion.pdf\|RaakQsortartikel_finalauthorversion.pdf]]
