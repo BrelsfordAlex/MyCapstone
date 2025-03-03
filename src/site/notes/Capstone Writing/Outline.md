@@ -19,13 +19,14 @@
 - [[Sources with Notes/Articles/Training Teachers to Implement Classroom Pivotal Response Teaching during  Small group Instruction_ A Pilot Study\|Classroom Pivotal Response Teaching (CPRT)]]
 - [[Sources with Notes/Articles/A Systematic Review and Quality Appraisal of Applications of Direct Instruction with Children with Autism Spectrum Disorder\|Direct Instruction]]
 - [[Sources with Notes/Articles/A Model of Practice for Building Teacher Capacity in Educating Young School age Children on the Autism Spectrum User Perspectives\|Early Years Model of Practice (EY-MoP)]]
+- [[Sources with Notes/Articles/Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism\|Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism]]
 **Why I made the Project:** I made this project because I want to help students that could be struggling and having a select number of teaching methods I can go back to look at with research backing them and how they benefit students with autism.  I want to have as many teaching methods and have an understanding of them under my boot as many as possible
 
 
 ## Body
 
 ### Inclusive Pedagogy
-- Transition to: 
+- Transition to: The first teaching method I could discover was Inclusive Pedagogy
 - .
 - .
 - .
@@ -60,7 +61,13 @@
 - .
 - .
 - Transition out
+### Teaching Method 4: [[Sources with Notes/Articles/Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism\|Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism]]
 
+- Transition to: 
+- .
+- .
+- .
+- Transition out
 ### Effect of these Teaching Methods
 - Transition to: 
 - .

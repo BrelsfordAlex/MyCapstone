@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Autism","teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT"],"permalink":"/Sources with Notes/Articles/Training Teachers to Implement Classroom Pivotal Response Teaching during  Small group Instruction_ A Pilot Study/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT","Source"],"permalink":"/Sources with Notes/Articles/Training Teachers to Implement Classroom Pivotal Response Teaching during  Small group Instruction_ A Pilot Study/","dgPassFrontmatter":true}
 ---
 
 # References
