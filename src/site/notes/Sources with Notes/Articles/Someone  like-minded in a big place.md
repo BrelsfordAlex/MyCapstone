@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Autism","General-Education","peer-support","school","mental-health","Source"],"permalink":"/Sources with Notes/Articles/Someone  like-minded in a big place/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","General-Education","peer-support","school","mental-health"],"permalink":"/Sources with Notes/Articles/Someone  like-minded in a big place/","dgPassFrontmatter":true}
 ---
 
 

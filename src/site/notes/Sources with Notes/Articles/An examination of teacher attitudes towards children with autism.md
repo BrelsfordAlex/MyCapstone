@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"tags":["Autism","attitude","beliefs","teacher-perspective","Source"],"permalink":"/Sources with Notes/Articles/An examination of teacher attitudes towards children with autism/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","attitude","beliefs","teacher-perspective"],"permalink":"/Sources with Notes/Articles/An examination of teacher attitudes towards children with autism/","dgPassFrontmatter":true}
 ---
 
-# Reference
+ # Reference
 
 Park, Meungguk, and Morgan Chitiyo. “An Examination of Teacher Attitudes towards Children with Autism.” _Journal of Research in Special Educational Needs_, vol. 11, no. 1, 11 Nov. 2010, pp. 70–78, https://doi.org/10.1111/j.1471-3802.2010.01181.x.
 # Article

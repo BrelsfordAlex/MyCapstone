@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Inclusion","General-Education","teacher-perspective","Autism","Source"],"permalink":"/Sources with Notes/Articles/Teaching students with Autism Spectrum Disorders- What are the needs of educational professionals/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Inclusion","General-Education","teacher-perspective","Autism"],"permalink":"/Sources with Notes/Articles/Teaching students with Autism Spectrum Disorders- What are the needs of educational professionals/","dgPassFrontmatter":true}
 ---
 
 # Reference
