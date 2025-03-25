@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"],"permalink":"/Sources with Notes/Articles/Teaching Models/Inclusive Education for Students with Disability/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"],"permalink":"/sources-with-notes/articles/teaching-models/inclusive-education-for-students-with-disability/","dgPassFrontmatter":true}
 ---
 
 # Reference

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["videoModeling","video","visualhybrid","technology","teachingmethod-mentioned","peer-support"],"permalink":"/Sources with Notes/Articles/Teaching Models/TEACHING SOCIAL SKILLS TO STUDENTS WITH AUTISM- A VIDEO MODELING SOCIAL STORIES APPROACH/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["videoModeling","video","visualhybrid","technology","teachingmethod-mentioned","peer-support"],"permalink":"/sources-with-notes/articles/teaching-models/teaching-social-skills-to-students-with-autism-a-video-modeling-social-stories-approach/","dgPassFrontmatter":true}
 ---
 
 # Reference

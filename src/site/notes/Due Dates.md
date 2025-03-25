@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/Due Dates/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/due-dates/","dgPassFrontmatter":true}
 ---
 
  

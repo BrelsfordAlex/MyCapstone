@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Autism","visualhybrid"],"permalink":"/Sources with Notes/Articles/Educational Supports for High Functioning Youth With ASD- The Postsecondary Pathway to College/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","visualhybrid"],"permalink":"/sources-with-notes/articles/educational-supports-for-high-functioning-youth-with-asd-the-postsecondary-pathway-to-college/","dgPassFrontmatter":true}
 ---
 
 

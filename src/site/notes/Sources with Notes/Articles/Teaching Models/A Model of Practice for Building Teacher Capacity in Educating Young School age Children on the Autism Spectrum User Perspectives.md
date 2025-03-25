@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["eymop","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Teaching Models/A Model of Practice for Building Teacher Capacity in Educating Young School age Children on the Autism Spectrum User Perspectives/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["eymop","teachingmethod-mentioned"],"permalink":"/sources-with-notes/articles/teaching-models/a-model-of-practice-for-building-teacher-capacity-in-educating-young-school-age-children-on-the-autism-spectrum-user-perspectives/","dgPassFrontmatter":true}
 ---
 
 

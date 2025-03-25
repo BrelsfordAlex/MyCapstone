@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["video","videoModeling","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Teaching Models/Systematic Review of Video Activity Schedules to Teach Autistic People/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["video","videoModeling","teachingmethod-mentioned"],"permalink":"/sources-with-notes/articles/teaching-models/systematic-review-of-video-activity-schedules-to-teach-autistic-people/","dgPassFrontmatter":true}
 ---
 
 # Reference

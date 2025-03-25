@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["UDL","Classroom-Pivotal-Response-Teaching-CPRT","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Teaching Models/Practices and Experiences of General Education Teachers Educating Students with Autism/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["UDL","Classroom-Pivotal-Response-Teaching-CPRT","teachingmethod-mentioned"],"permalink":"/sources-with-notes/articles/teaching-models/practices-and-experiences-of-general-education-teachers-educating-students-with-autism/","dgPassFrontmatter":true}
 ---
 
 # Reference

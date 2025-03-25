@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["General-Education","Autism","Inclusion","Teacher-Perceptions","Pedagogical-Practices"],"permalink":"/Sources with Notes/Articles/General Education Teachers’ Perceptions of Autism, Inclusive Practices, and Relationship Building Strategies/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["General-Education","Autism","Inclusion","Teacher-Perceptions","Pedagogical-Practices"],"permalink":"/sources-with-notes/articles/general-education-teachers-perceptions-of-autism-inclusive-practices-and-relationship-building-strategies/","dgPassFrontmatter":true}
 ---
 
 # Reference

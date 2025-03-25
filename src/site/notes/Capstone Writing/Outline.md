@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["outline","Feb25th","Classroom-Pivotal-Response-Teaching-CPRT","3factormethod","direct-instruction","eymop"],"permalink":"/Capstone Writing/Outline/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["outline","Feb25th","Classroom-Pivotal-Response-Teaching-CPRT","3factormethod","direct-instruction","eymop"],"permalink":"/capstone-writing/outline/","dgPassFrontmatter":true}
 ---
 
 # Basics 
@@ -21,6 +21,13 @@
 - [[Sources with Notes/Articles/Teaching Models/A Model of Practice for Building Teacher Capacity in Educating Young School age Children on the Autism Spectrum User Perspectives\|Early Years Model of Practice (EY-MoP)]]
 - [[Sources with Notes/Articles/Teaching Models/Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism\|Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism]]
 - **Inclusion and UDL**
+**Definitions that are important for my project:**
+- Universal Design
+	- Definition: 
+- Inclusion
+	- **Definition:** Inclusion for my project is being defined as Integrating as many or all students and supporting their needs into my classroom by offering supports and needs based on each student.
+		- Reason for the Definition: "the term ‘inclusive’ is used broadly in education and has many meanings. It is an educational concept that has defied precise definition. Although there is a broad consensus and understanding that inclusive education is ‘a process of increasing participation and decreasing exclusion from the culture, community and curricula of mainstream schools’"
+			- Florian, Lani, and Kristine Black-Hawkins. “Exploring Inclusive Pedagogy.” _British Educational Research Journal_, vol. 37, no. 5, Oct. 2011, pp. 813–828, bera-journals.onlinelibrary.wiley.com/doi/abs/10.1080/01411926.2010.501096, https://doi.org/10.1080/01411926.2010.501096 ([[Sources with Notes/Articles/Teaching Models/Exploring inclusive pedagogy\|Exploring inclusive pedagogy]])
 **Why I made the Project:** I made this project because I want to help students that could be struggling and having a select number of teaching methods I can go back to look at with research backing them and how they benefit students with autism.  I want to have as many teaching methods and have an understanding of them under my boot as many as possible
 ### About Autism in school
 - Transition to: 
@@ -44,17 +51,20 @@
 
 
 
-### Basic Overview  of the Teaching Methods
+### The Goal of this Project
 - Transition to: Some Teaching methods I have found include a Three factor model, Direct Instruction, Visual aids/technology help, Universal Design/Inclusion, and even scaffolding. 
-- .
-- .
-- .
+- give teachers many teaching methods to use and adapt
+- provide ways one could adapt the teaching methods
+- create an easy template for me personally so i could update this as I learn about more methods and give myself the resources for them
 - Transition out
-### Effect of the Teaching Methods
+###  All the points my project makes 
 - Transition to: 
-- .
-- .
-- .
+- Some teaching methods work better for certain students than others
+	- quote
+		- reasoning
+- Teaching methods can be adapted to even non-Autistic students
+	- quote
+		- reasoning
 - Transition out
 
 ### Paragraph

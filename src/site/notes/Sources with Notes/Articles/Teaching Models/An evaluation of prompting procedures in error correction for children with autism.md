@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teachingmethod-mentioned","activestudentresponse","errorCorrection"],"permalink":"/Sources with Notes/Articles/Teaching Models/An evaluation of prompting procedures in error correction for children with autism/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["teachingmethod-mentioned","activestudentresponse","errorCorrection"],"permalink":"/sources-with-notes/articles/teaching-models/an-evaluation-of-prompting-procedures-in-error-correction-for-children-with-autism/","dgPassFrontmatter":true}
 ---
 
 # Reference

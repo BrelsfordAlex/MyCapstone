@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Welcome to My capstone

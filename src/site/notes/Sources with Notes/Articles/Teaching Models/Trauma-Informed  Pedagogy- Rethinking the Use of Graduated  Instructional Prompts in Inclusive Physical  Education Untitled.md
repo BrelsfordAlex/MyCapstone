@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"],"permalink":"/Sources with Notes/Articles/Teaching Models/Trauma-Informed  Pedagogy- Rethinking the Use of Graduated  Instructional Prompts in Inclusive Physical  Education Untitled/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["inclusive-education","Inclusion","teachingmethod-mentioned","UDL","Universal-Design"],"permalink":"/sources-with-notes/articles/teaching-models/trauma-informed-pedagogy-rethinking-the-use-of-graduated-instructional-prompts-in-inclusive-physical-education-untitled/","dgPassFrontmatter":true}
 ---
 
 # Reference

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["technology","video","learningstyle","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Teaching Models/Integration of School Technologies for Language  Learning for Students with Autism Spectrum  Disorder-A Systematic Review/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["technology","video","learningstyle","teachingmethod-mentioned"],"permalink":"/sources-with-notes/articles/teaching-models/integration-of-school-technologies-for-language-learning-for-students-with-autism-spectrum-disorder-a-systematic-review/","dgPassFrontmatter":true}
 ---
 
 # Reference

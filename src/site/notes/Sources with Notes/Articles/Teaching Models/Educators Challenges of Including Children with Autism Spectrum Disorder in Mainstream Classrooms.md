@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["inclusive-education","General-Education","social-inclusion","UDL","Universal-Design"],"permalink":"/Sources with Notes/Articles/Teaching Models/Educators Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["inclusive-education","General-Education","social-inclusion","UDL","Universal-Design"],"permalink":"/sources-with-notes/articles/teaching-models/educators-challenges-of-including-children-with-autism-spectrum-disorder-in-mainstream-classrooms/","dgPassFrontmatter":true}
 ---
 
 # Reference

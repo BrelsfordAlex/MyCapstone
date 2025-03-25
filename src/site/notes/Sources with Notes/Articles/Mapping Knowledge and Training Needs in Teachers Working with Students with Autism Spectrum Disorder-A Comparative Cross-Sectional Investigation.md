@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["General-Education","Autism","teacher-education","training","autism-knowladge"],"permalink":"/Sources with Notes/Articles/Mapping Knowledge and Training Needs in Teachers Working with Students with Autism Spectrum Disorder-A Comparative Cross-Sectional Investigation/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["General-Education","Autism","teacher-education","training","autism-knowladge"],"permalink":"/sources-with-notes/articles/mapping-knowledge-and-training-needs-in-teachers-working-with-students-with-autism-spectrum-disorder-a-comparative-cross-sectional-investigation/","dgPassFrontmatter":true}
 ---
 
 # Reference

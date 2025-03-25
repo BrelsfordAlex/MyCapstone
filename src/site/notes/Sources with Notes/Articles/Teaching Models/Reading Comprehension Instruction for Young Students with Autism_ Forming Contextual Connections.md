@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teachingmethod-mentioned","readingcomprehension"],"permalink":"/Sources with Notes/Articles/Teaching Models/Reading Comprehension Instruction for Young Students with Autism_ Forming Contextual Connections/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["teachingmethod-mentioned","readingcomprehension"],"permalink":"/sources-with-notes/articles/teaching-models/reading-comprehension-instruction-for-young-students-with-autism-forming-contextual-connections/","dgPassFrontmatter":true}
 ---
 
 # Reference

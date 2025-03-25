@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Autism","attitude","beliefs","teacher-perspective"],"permalink":"/Sources with Notes/Articles/An examination of teacher attitudes towards children with autism/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Autism","attitude","beliefs","teacher-perspective"],"permalink":"/sources-with-notes/articles/an-examination-of-teacher-attitudes-towards-children-with-autism/","dgPassFrontmatter":true}
 ---
 
  # Reference

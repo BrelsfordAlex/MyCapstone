@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["schemaBased","direct-instruction","learningstyle","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Teaching Models/Teaching Students With Mild Intellectual  Disability to Solve Word Problems Using  Schema-Based Instruction/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["schemaBased","direct-instruction","learningstyle","teachingmethod-mentioned"],"permalink":"/sources-with-notes/articles/teaching-models/teaching-students-with-mild-intellectual-disability-to-solve-word-problems-using-schema-based-instruction/","dgPassFrontmatter":true}
 ---
 
 # Reference

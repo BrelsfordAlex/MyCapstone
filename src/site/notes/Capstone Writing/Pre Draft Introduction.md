@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["draft","outline"],"permalink":"/Capstone Writing/Pre Draft Introduction/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["draft","outline"],"permalink":"/capstone-writing/pre-draft-introduction/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,7 @@ For my Capstone I decided to work on something that is close to my heart, what t
 
   
 
-There is a baseline that I created, I wanted to look at what teachers were saying that they struggled with and how would I go about navigating these struggles if I ever were to experience them. Starting off, "Teachers’ perceptions of [Autism Spectrum Disorder] and inclusion appear to be shaped by both (1) their past or current experiences of autistic students, including the pervasiveness of child behavior problems and modifcation needs in the classroom, and (2)teacher variables, including training and perceived teaching efficacy."(Bolourian et al.) Meaning that if a teacher has a bad experience at some point with an autistic student, say the student was violent or even the teacher just wasn't prepared enough for the student that could shape the teachers perspective on autistic students in the future. One thing I thought about was how could a teacher be best prepared for any autistic students they come across. The thing with Autism is that sensory needs can become so overpowering it makes it hard to learn anything, so tackling these needs with things such as  covers over the lights on the ceiling, a sensory corner, or even allowing small quiet fidgets such as a tangle jr for students to have can allow them (and really any other student) to take a second to breath and center themselves again.
+There is a baseline that I created, I wanted to look at what teachers were saying that they struggled with and how would I go about navigating these struggles if I ever were to experience them. Starting off, "Teachers’ perceptions of [Autism Spectrum Disorder] and inclusion appear to be shaped by both (1) their past or current experiences of autistic students, including the pervasiveness of child behavior problems and modification needs in the classroom, and (2)teacher variables, including training and perceived teaching efficacy."(Bolourian et al.) Meaning that if a teacher has a bad experience at some point with an autistic student, say the student was violent or even the teacher just wasn't prepared enough for the student that could shape the teachers perspective on autistic students in the future. One thing I thought about was how could a teacher be best prepared for any autistic students they come across. The thing with Autism is that sensory needs can become so overpowering it makes it hard to learn anything, so tackling these needs with things such as  covers over the lights on the ceiling, a sensory corner, or even allowing small quiet fidgets such as a tangle jr for students to have can allow them (and really any other student) to take a second to breath and center themselves again.
 
   
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teachingmethod-mentioned","visualhybrid","learningstyle"],"permalink":"/Sources with Notes/Articles/Teaching Models/Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["teachingmethod-mentioned","visualhybrid","learningstyle"],"permalink":"/sources-with-notes/articles/teaching-models/visual-hybrid-development-learning-system-vhdls-framework-for-children-with-autism/","dgPassFrontmatter":true}
 ---
 
 # Reference

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teachingmethod-mentioned","3factormethod"],"permalink":"/Sources with Notes/Articles/Teaching Models/A Three-Factor Model of Educational Practice Considerations for Teaching Neurodiverse Learners/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["teachingmethod-mentioned","3factormethod"],"permalink":"/sources-with-notes/articles/teaching-models/a-three-factor-model-of-educational-practice-considerations-for-teaching-neurodiverse-learners/","dgPassFrontmatter":true}
 ---
 
 # References

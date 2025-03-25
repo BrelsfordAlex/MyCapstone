@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["UDL","Universal-Design","teachingmethod-mentioned"],"permalink":"/Sources with Notes/Articles/Teaching Models/Applying Universal Design to Address the Needs of  Postsecondary Students on the Autism Spectrum/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["UDL","Universal-Design","teachingmethod-mentioned"],"permalink":"/sources-with-notes/articles/teaching-models/applying-universal-design-to-address-the-needs-of-postsecondary-students-on-the-autism-spectrum/","dgPassFrontmatter":true}
 ---
 
 # Reference

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Capstone Writing/Bibliography/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/capstone-writing/bibliography/","dgPassFrontmatter":true}
 ---
 
 # Works Cited

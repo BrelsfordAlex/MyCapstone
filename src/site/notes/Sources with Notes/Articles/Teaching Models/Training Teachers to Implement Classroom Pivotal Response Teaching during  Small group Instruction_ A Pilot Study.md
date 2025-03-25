@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT"],"permalink":"/Sources with Notes/Articles/Teaching Models/Training Teachers to Implement Classroom Pivotal Response Teaching during  Small group Instruction_ A Pilot Study/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["teachingmethod-mentioned","Classroom-Pivotal-Response-Teaching-CPRT"],"permalink":"/sources-with-notes/articles/teaching-models/training-teachers-to-implement-classroom-pivotal-response-teaching-during-small-group-instruction-a-pilot-study/","dgPassFrontmatter":true}
 ---
 
 # References

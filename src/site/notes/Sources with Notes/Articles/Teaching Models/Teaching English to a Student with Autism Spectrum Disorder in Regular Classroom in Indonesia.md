@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["peer-support","inclusive-education","teachingmethod-mentioned","co-teaching","visualhybrid","General-Education","activestudentresponse"],"permalink":"/Sources with Notes/Articles/Teaching Models/Teaching English to a Student with Autism Spectrum Disorder in Regular Classroom in Indonesia/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["peer-support","inclusive-education","teachingmethod-mentioned","co-teaching","visualhybrid","General-Education","activestudentresponse"],"permalink":"/sources-with-notes/articles/teaching-models/teaching-english-to-a-student-with-autism-spectrum-disorder-in-regular-classroom-in-indonesia/","dgPassFrontmatter":true}
 ---
 
 # Reference
