@@ -160,8 +160,6 @@ The paper "Trauma-Informed Pedagogy: Rethinking the Use of Graduated Instruction
 
 These methods aim to create a supportive and safe learning environment that respects students' autonomy and leverages their strengths, ultimately supporting their resilience and educational success.
 
-[(link)](/library/teaching-methods-pdfs-64ehincl/trauma-informed-pedagogy-rethinking-the-use-of-graduated-ocgzi0zs)
-
 ## Effective Trauma-Informed Teaching Strategies
 
 - **Understanding Trauma's Impact**: Recognize the widespread impact of trauma, especially on students with developmental disabilities who are at higher risk of maltreatment. This understanding is crucial for creating a supportive learning environment .
