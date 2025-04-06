@@ -13,7 +13,8 @@
 - my project itself 
 - resources for my project 
 
-> [!note] NOTE TO SELF
+
+> [!note]  Note To Self 
 > To put in a pdf of a source or anything like that you have to upload it to the google drive folder labled Sources(PDF) and then you can paste this in the notes page you have with this set of text ```<iframe src="INSERT URL" width="700" height="1000" ></iframe>```
 > 
 > It'll allow you to embed a pdf, and change its size! If for any reason you'd like to eliminate the obvious Google Drive border on the embedded PDF, you can actually take out everything after the last "/" in your URL for your Google Doc **The Part that says view?** and  replace it with "preview", and that should do the trick!
