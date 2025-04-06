@@ -21,13 +21,13 @@
 > > 
 
 >[!faq] Video Resources about Universal Design
-![](https://www.youtube.com/watch?v=NL2xPwDrGqQ)
+><iframe width="560" height="315" src="https://www.youtube.com/embed/NL2xPwDrGqQ?si=HGZla0hgTRbsAR4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 > 
->![Why we need Universal Design - Tedtalk](https://www.youtube.com/watch?v=bVdPNWMGyZY)
+><iframe width="560" height="315" src="https://www.youtube.com/embed/bVdPNWMGyZY?si=FHyt1oJqW3gx1CLH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
->![Playlist on examples of Universal Design in a classroom](https://www.youtube.com/watch?v=pGLTJw0GSxk&list=PLDD6870F2D42327F3&index=1)
+><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=uPTfH7T-x7DXPI6Q&amp;list=PLDD6870F2D42327F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
->![Seeing UDL in action in the classroom](https://www.youtube.com/watch?v=hCHTxTfkBsU)
+><iframe width="560" height="315" src="https://www.youtube.com/embed/hCHTxTfkBsU?si=3RMNsMd9KA7n7f3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
 >![]()
 
