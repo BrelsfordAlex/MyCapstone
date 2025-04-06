@@ -21,7 +21,7 @@
 > > 
 
 >[!faq] Video Resources about Universal Design
-![When you design for everyone everyone benefits from the design](https://www.youtube.com/watch?v=NL2xPwDrGqQ)
+![](https://www.youtube.com/watch?v=NL2xPwDrGqQ)
 > 
 >![Why we need Universal Design - Tedtalk](https://www.youtube.com/watch?v=bVdPNWMGyZY)
 >
