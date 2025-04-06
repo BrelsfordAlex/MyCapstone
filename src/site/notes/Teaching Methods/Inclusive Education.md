@@ -27,7 +27,6 @@
 >[!faq]- Research Articles about Inclusion
 >*  Lindsay, Sally, et al. “Educators’ Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms.” _International Journal of Disability, Development and Education_, vol. 60, no. 4, Dec. 2013, pp. 347–362, www.tandfonline.com/doi/epdf/10.1080/1034912X.2013.846470?needAccess=true.
 >	* [[Sources with Notes/Articles/Teaching Models/Universal Design and Inclusive Education/Educators Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms\|Educators Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms]]
-
 >*  Goodwin, Donna. “Trauma-Informed Pedagogy: Rethinking the Use of Graduated Instructional Prompts in Inclusive Physical Education.” 4 June 2020.
 >	* [[Sources with Notes/Articles/Teaching Models/Universal Design and Inclusive Education/Trauma-Informed  Pedagogy- Rethinking the Use of Graduated  Instructional Prompts in Inclusive Physical  Education Untitled\|Trauma-Informed  Pedagogy- Rethinking the Use of Graduated  Instructional Prompts in Inclusive Physical  Education Untitled]]
 > * Imaniah, Ikhfi, and Nurul Fitria. “Inclusive Education for Students with Disability.” _SHS Web of Conferences_, vol. 42, 2018, p. 00039, https://doi.org/10.1051/shsconf/20184200039. Accessed 3 Mar. 2025.
