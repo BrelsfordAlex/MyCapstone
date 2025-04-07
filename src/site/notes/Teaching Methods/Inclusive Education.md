@@ -10,7 +10,7 @@
 > >* **Having a high expectation for what students can do**
  > >	* Teachers should have an expectation for all students on how they should act rather than how they shouldn't act 
 >  >		* for example setting the expectation that students will keep the classroom clean and students will pay attention and try their best
-> > >* **Individualized Support**
+> >* **Individualized Support**
  > >	* Each student has the needed supports to give everyone an equitable playing field for learning and to show each students thinking and learning process
 >  >* **Instructional Based Learning**
 > >	* Instructional based learning is creating alternate ways of learning the curriculum which can allow all students to do assignments in ways they will succeed the most with
