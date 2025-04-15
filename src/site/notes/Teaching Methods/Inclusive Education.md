@@ -3,7 +3,7 @@
 ---
 
  
-> [!todo] What is Inclusive Education
+> [!abstract] What is Inclusive Education
 > ==**Inclusive Education**== is an education system that includes all students, and strives to support them in their learning process no matter who they are or their abilities. This could mean making sure that teaching and the curriculum, school buildings, classrooms, play areas, transport and toilets are appropriate for all children at all levels.
  >   It means all children learn together in the same schools and there are ways to support all students to put them all on the same playing field
 > >[!note]-  The basics of Inclusive Education
@@ -16,7 +16,13 @@
 > >	* Instructional based learning is creating alternate ways of learning the curriculum which can allow all students to do assignments in ways they will succeed the most with
  > >		* **Examples:** an assignment that allows for a creative way to do it, a writing based, and maybe a verbal based way of showing understanding. > > >			* Having these ways of doing the assignment allow for students to excel in the way that they do best
 
+>[!note] Some Important Information About Inclusive Education
+>This teaching Method/style is usually included in [[Teaching Methods/Universal Design\|Universal Design]] so most of that information would become useful for this!
 
+
+>[!faq] Video Resources about Inclusive Education
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/yHE3Lklix3I?si=ged0FEB9NUFejJLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/7euYspGvBsY?si=GpHVkBSp3O--9Vlt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > [!faq]- Informational Website Resources
 >* https://www.smarttech.com/en-ca/education/resources/blog/what-inclusive-learning-means
@@ -24,7 +30,7 @@
 >* https://www.allinforinclusiveed.org/about-inclusive-education
 >* https://www.unicef.org/eca/sites/unicef.org.eca/files/IE_summary_accessible_220917_brief.pdf
 
->[!faq]- Research Articles about Inclusion
+>[!abstract]- Research Articles about Inclusion
 >*  Lindsay, Sally, et al. “Educators’ Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms.” _International Journal of Disability, Development and Education_, vol. 60, no. 4, Dec. 2013, pp. 347–362, www.tandfonline.com/doi/epdf/10.1080/1034912X.2013.846470?needAccess=true.
 >	* [[Sources with Notes/Articles/Teaching Models/Universal Design and Inclusive Education/Educators Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms\|Educators Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms]]
 >*  Goodwin, Donna. “Trauma-Informed Pedagogy: Rethinking the Use of Graduated Instructional Prompts in Inclusive Physical Education.” 4 June 2020.

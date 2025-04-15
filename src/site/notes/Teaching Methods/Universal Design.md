@@ -16,9 +16,9 @@
 > > > 	* Some students learn better with technology and video games while maybe another student learns better with a group activity with the teacher who helps work through the problem together. Or maybe you have a student that works better and understands the material better if they are alone. 
 > > > 	* There are many different ways a student can learn the material, allowing them access to these different methods is crucial for autistic students. You want to play to their strengths and work on building their weaknesses together. 
 > > > 		* Maybe a student works really well alone but struggles with group work, you could set up stations where a student can work alone but when a timer goes off students change stations and they work with a group of students without the teacher and again with the teacher. 
-> > > 			* These stations could allow for every student to thrive and get help with their work not only with their peers but with the teacher and themselves. This works really well with autistic students. It gives those students a proper routine to follow and that allows the students to feel comfy in the enviornment and know what is coming nextl.
+> > > 			* These stations could allow for every student to thrive and get help with their work not only with their peers but with the teacher and themselves. This works really well with autistic students. It gives those students a proper routine to follow and that allows the students to feel comfy in the enviornment and know what is coming next.
 >
-> > 
+> >  Also see [[Teaching Methods/Inclusive Education\|Inclusive Education]]
 
 >[!faq] Video Resources about Universal Design
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/NL2xPwDrGqQ?si=HGZla0hgTRbsAR4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,6 +30,55 @@
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/hCHTxTfkBsU?si=3RMNsMd9KA7n7f3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
 >![]()
+
+> [!faq]- Informational Worksheets
+>>[!note]- A Lesson Plan Template for Universal Design! 
+>>
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pd-fs-and-images-and-stuff/teaching-method-work-sheets/udl/lesson-plan-template/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+|                                                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lesson Plan –**<br><br>**Developed by:**                                               **School:** <br><br>**Date:**                                                               **Grade level:** <br><br>**Subject:**                                                          **Unit:** |
+
+|   |   |   |
+|---|---|---|
+|**Outcomes**|**Materials**|   |
+|**Technology**<br><br>_Check all that apply_<br><br>o    Teacher laptop<br><br>o    SMART Board<br><br>o    LCD projector<br><br>o    SMART Senteos (class set)<br><br>o    Computers<br><br>o    iPad or tablet<br><br>o    iPod or mp3 player(s)|o    Webcam<br><br>o    Digital camera<br><br>o    Document camera<br><br>o    Digital microscope<br><br>o    Video camera<br><br>o    Scanner<br><br>o    Colour printer<br><br>o    Calculators<br><br>o    FM system|
+
+|   |
+|---|
+|**Prior Learning Connections**|
+
+|   |
+|---|
+|**Differentiation/Accommodations**|
+
+|   |
+|---|
+|**Special Concerns**<br><br>(Classroom management items, medication information, etc).|
+
+|   |
+|---|
+|**Assessment**<br><br>**Formative Assessments**<br><br>**Summative Assessment**|
+
+|   |   |   |
+|---|---|---|
+|**Procedure**|   |   |
+|**Before the lesson**||   |
+|**During the lesson**||**UDL Guidelines**<br><br>See [http://www.udlcenter.org/aboutudl/udlguidelines](http://www.udlcenter.org/aboutudl/udlguidelines)|
+|**After the lesson**||   |
+
+|                       |
+| --------------------- |
+| **Notes/Reflections** |
+
+</div></div>
+ 
 
 > [!faq] Informational Website Resources
 >* https://careerfoundry.com/en/blog/ux-design/universal-design-principles/
