@@ -2,8 +2,18 @@
 {"dg-publish":true,"tags":["visualhybrid","video","videoModeling","capstone","project"],"permalink":"/teaching-methods/visual-hybrid-and-video-modeling/","dgPassFrontmatter":true}
 ---
 
+>[!info] About Visual Hybrid and Video Modeling Teaching Strategies
+> information here
+>
 
-
+>[!tip] Resources About Visual Hybrid and Video Modeling Teaching Strategies
+>>[!faq] Video resources
+>>links here
+>
+>>[!faq] Website resources here
+>> links here
+>
+>> [!faq] Other Resources here
 
 >[!abstract] Research Articles About Visual Hybrid and Video Modeling Teaching Strategies
 >* Banire, Bilikis, et al. “Visual Hybrid Development Learning System (VHDLS) Framework for Children with Autism.” _Journal of Autism and Developmental Disorders_, vol. 45, no. 10, 22 May 2015, pp. 3069–3084, https://doi.org/10.1007/s10803-015-2469-7.

@@ -2,6 +2,21 @@
 {"dg-publish":true,"tags":["Autism","autism-knowladge","capstone","project"],"permalink":"/about-autism-in-schools/","dgPassFrontmatter":true}
 ---
 
+>[!info] About Autism in Schools
+> # How Does Autism Present?
+> Autism in Schools can present in many ways, just like how you and I are very different. 
+> # What are the usual supports given to an Autistic Student?
+> things like x y z
+> # Other Information
+
+>[!tip] Resources About Autism in Schools
+>>[!faq] Video resources
+>>links here
+>
+>>[!faq] Website resources here
+>> links here
+>
+>> [!faq] Other Resources here
 
 
 >[!abstract] Research Articles About Autism in Schools

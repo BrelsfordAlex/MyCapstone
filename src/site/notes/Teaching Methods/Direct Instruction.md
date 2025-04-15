@@ -2,6 +2,21 @@
 {"dg-publish":true,"tags":["direct-instruction","project","capstone"],"permalink":"/teaching-methods/direct-instruction/","dgPassFrontmatter":true}
 ---
 
+> [!abstract] About 
+> > [!todo] ## What is ?
+>  
+> > >[!note]-  The Principles of 
+>
+
+>[!tip] Resources About 
+>>[!faq]- Video resources
+>>
+>
+>>[!faq]- Website resources here
+>>
+>> [!faq] Other Resources here
+>>> [!check]- Informational Worksheets
+>
 
 
 

@@ -20,41 +20,42 @@
 >
 > >  Also see [[Teaching Methods/Inclusive Education\|Inclusive Education]]
 
->[!faq] Video Resources about Universal Design
-><iframe width="560" height="315" src="https://www.youtube.com/embed/NL2xPwDrGqQ?si=HGZla0hgTRbsAR4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-> 
-><iframe width="560" height="315" src="https://www.youtube.com/embed/bVdPNWMGyZY?si=FHyt1oJqW3gx1CLH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
->
-><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=uPTfH7T-x7DXPI6Q&amp;list=PLDD6870F2D42327F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
->
-><iframe width="560" height="315" src="https://www.youtube.com/embed/hCHTxTfkBsU?si=3RMNsMd9KA7n7f3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
->
->![]()
-
-> [!faq]- Informational Worksheets
->>[!note]- A Lesson Plan Template for Universal Design! 
->>[[PDFs and Images and Stuff/Teaching Method Work Sheets/UDL/Lesson Plan Template\|Lesson Plan Template]] 
->
->>[!note]- Worksheet to help you plan your students strengths weaknesses and interests
->>By: https://www.teacherspayteachers.com/Product/UDL-Class-Profile-Template-1490156
->>> [!example]- Example
->>>  [[PDFs and Images and Stuff/Teaching Method Work Sheets/UDL/Class Learning Profile EXAMPLE\|Class Learning Profile EXAMPLE]]
+>[!tip] Resources About Universal Design
+>>[!faq]- Video resources
+>><iframe width="560" height="315" src="https://www.youtube.com/embed/NL2xPwDrGqQ?si=HGZla0hgTRbsAR4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>> 
+>><iframe width="560" height="315" src="https://www.youtube.com/embed/bVdPNWMGyZY?si=FHyt1oJqW3gx1CLH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >>
->>>[!note]- Template
->>> [[PDFs and Images and Stuff/Teaching Method Work Sheets/UDL/Class Learning Profile TEMPLATE\|Class Learning Profile TEMPLATE]]
+>><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=uPTfH7T-x7DXPI6Q&amp;list=PLDD6870F2D42327F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>>
+>><iframe width="560" height="315" src="https://www.youtube.com/embed/hCHTxTfkBsU?si=3RMNsMd9KA7n7f3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>>
+>>![]()
+>
+>>[!faq]- Website resources here
+>>* https://careerfoundry.com/en/blog/ux-design/universal-design-principles/
+>>* https://www.washington.edu/doit/what-universal-design-0
+>>* https://web.stanford.edu/class/engr110/2007/PUD.pdf
+>>* https://www.section508.gov/develop/universal-design/
+>>* https://universaldesign.ie/about-universal-design
+>>* https://www.opensocietyfoundations.org/explainers/value-inclusive-education
+>>* https://udlguidelines.cast.org/
+>>* https://www.heretohelp.bc.ca/visions/the-many-faces-of-neurodiversity-vol18/universal-design-for-learning-and-neurodiversity
+>
+>> [!faq] Other Resources here
+>>> [!check]- Informational Worksheets
+>>>>[!note]- A Lesson Plan Template for Universal Design! 
+>>>>[[PDFs and Images and Stuff/Teaching Method Work Sheets/UDL/Lesson Plan Template\|Lesson Plan Template]] 
+>>>
+>>>>[!note]- Worksheet to help you plan your students strengths weaknesses and interests
+>>>>By: https://www.teacherspayteachers.com/Product/UDL-Class-Profile-Template-1490156
+>>>>> [!example]- Example
+>>>>>  [[PDFs and Images and Stuff/Teaching Method Work Sheets/UDL/Class Learning Profile EXAMPLE\|Class Learning Profile EXAMPLE]]
+>>>>
+>>>>>[!note]- Template
+>>>>> [[PDFs and Images and Stuff/Teaching Method Work Sheets/UDL/Class Learning Profile TEMPLATE\|Class Learning Profile TEMPLATE]]
+>
 
-
-
-> [!faq] Informational Website Resources
->* https://careerfoundry.com/en/blog/ux-design/universal-design-principles/
->* https://www.washington.edu/doit/what-universal-design-0
->* https://web.stanford.edu/class/engr110/2007/PUD.pdf
->* https://www.section508.gov/develop/universal-design/
->* https://universaldesign.ie/about-universal-design
->* https://www.opensocietyfoundations.org/explainers/value-inclusive-education
->* https://udlguidelines.cast.org/
->* https://www.heretohelp.bc.ca/visions/the-many-faces-of-neurodiversity-vol18/universal-design-for-learning-and-neurodiversity
->* 
 
 >[!abstract] Research Articles about Universal Design
 >*  Lindsay, Sally, et al. “Educators’ Challenges of Including Children with Autism Spectrum Disorder in Mainstream Classrooms.” _International Journal of Disability, Development and Education_, vol. 60, no. 4, Dec. 2013, pp. 347–362, www.tandfonline.com/doi/epdf/10.1080/1034912X.2013.846470?needAccess=true.

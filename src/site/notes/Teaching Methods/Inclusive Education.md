@@ -19,10 +19,19 @@
 >[!note] Some Important Information About Inclusive Education
 >This teaching Method/style is usually included in [[Teaching Methods/Universal Design\|Universal Design]] so most of that information would become useful for this!
 
+>[!tip] Resources About Inclusive Education
+>>[!faq]- Video resources
+>><iframe width="560" height="315" src="https://www.youtube.com/embed/yHE3Lklix3I?si=ged0FEB9NUFejJLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>> <iframe width="560" height="315" src="https://www.youtube.com/embed/7euYspGvBsY?si=GpHVkBSp3O--9Vlt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>
+>>[!faq]- Website resources here
+>> * https://www.smarttech.com/en-ca/education/resources/blog/what-inclusive-learning-means
+>> * https://inclusiveschools.org/resource/elements-of-inclusive-education-for-early-childhood-programs/
+>> * https://www.allinforinclusiveed.org/about-inclusive-education
+>> * https://www.unicef.org/eca/sites/unicef.org.eca/files/IE_summary_accessible_220917_brief.pdf
+>
+>> [!faq] Other Resources here
 
->[!faq] Video Resources about Inclusive Education
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/yHE3Lklix3I?si=ged0FEB9NUFejJLD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/7euYspGvBsY?si=GpHVkBSp3O--9Vlt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > [!faq]- Informational Website Resources
 >* https://www.smarttech.com/en-ca/education/resources/blog/what-inclusive-learning-means

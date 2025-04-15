@@ -2,6 +2,21 @@
 {"dg-publish":true,"tags":["activestudentresponse","capstone","project","Classroom-Pivotal-Response-Teaching-CPRT"],"permalink":"/teaching-methods/active-student-response/","dgPassFrontmatter":true}
 ---
 
+> [!abstract] About 
+> > [!todo] ## What is ?
+>  
+> > >[!note]-  The Principles of 
+>
+
+>[!tip] Resources About 
+>>[!faq]- Video resources
+>>
+>
+>>[!faq]- Website resources here
+>>
+>> [!faq] Other Resources here
+>>> [!check]- Informational Worksheets
+>
 
 
 

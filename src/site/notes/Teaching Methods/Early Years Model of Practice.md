@@ -3,6 +3,18 @@
 ---
 
 
+>[!info] About Early Years Model of Practice
+> information here
+>
+
+>[!tip] Resources About Early Years Model of Practice
+>>[!faq] Video resources
+>>links here
+>
+>>[!faq] Website resources here
+>> links here
+>
+>> [!faq] Other Resources here
 
 
 >[!abstract] Research Articles About Early Years Model Of Practice
