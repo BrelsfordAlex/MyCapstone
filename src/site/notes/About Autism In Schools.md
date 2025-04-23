@@ -6,7 +6,15 @@
 > # How Does Autism Present?
 > Autism in Schools can present in many ways, just like how you and I are very different. 
 > # What are the usual supports given to an Autistic Student?
-> things like x y z
+> - ==**Predictable Routines**:== Faculty are encouraged to follow predictable routines in class. This helps students with ASD anticipate what will happen next, reducing anxiety and aiding in their ability to focus and learn effectively.
+> - ==**Breaking Down Assignments**:== Large assignments should be broken into smaller, more manageable units. This method allows students to tackle tasks step-by-step, making it easier for them to organize their work and meet deadlines.
+>    
+> - ==**Use of Visuals**:== Incorporating visuals, such as written instructions paired with graphics, can enhance understanding and retention of information. Visual aids support students in processing information more effectively. This Includes things like **Audible Alarms and Reminders**, setting audible alarms as reminders for tasks and appointments can assist students in managing their time and staying on track with their daily activities. This tool is particularly useful for students who may struggle with time management and need prompts to transition between tasks. Another thing that could be used as visuals is **Calendars and Organizers**, maintaining a calendar or organizer is crucial for tracking deadlines, appointments, and class schedules. This tool helps students plan their time effectively and ensures they do not miss important dates or tasks.
+>   
+> - ==**Providing Ample Response Time**:== Allowing students extra time to respond to questions gives them the opportunity to process information and organize their thoughts, which is crucial for effective learning.
+> - ==**Positive Reinforcement**:== Faculty can reinforce positive behaviors, such as speaking up in class or making eye contact, by providing brief acknowledgments or quick emails. This reinforcement encourages students to engage more actively in class.
+> - ==**Color-Coded Binders and Folders**:== Using color-coded binders and folders by subject can help students with ASD organize their materials and quickly locate what they need for each class. This visual organization method simplifies the process of managing multiple subjects and assignments .
+>
 > # Other Information
 
 >[!tip] Resources About Autism in Schools
