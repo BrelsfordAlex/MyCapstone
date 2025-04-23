@@ -3,19 +3,26 @@
 ---
 
 >[!info] About Autism in Schools
-> # How Does Autism Present?
-> Autism in Schools can present in many ways, just like how you and I are very different. 
-> # What are the usual supports given to an Autistic Student?
-> - ==**Predictable Routines**:== Faculty are encouraged to follow predictable routines in class. This helps students with ASD anticipate what will happen next, reducing anxiety and aiding in their ability to focus and learn effectively.
-> - ==**Breaking Down Assignments**:== Large assignments should be broken into smaller, more manageable units. This method allows students to tackle tasks step-by-step, making it easier for them to organize their work and meet deadlines.
->    
-> - ==**Use of Visuals**:== Incorporating visuals, such as written instructions paired with graphics, can enhance understanding and retention of information. Visual aids support students in processing information more effectively. This Includes things like **Audible Alarms and Reminders**, setting audible alarms as reminders for tasks and appointments can assist students in managing their time and staying on track with their daily activities. This tool is particularly useful for students who may struggle with time management and need prompts to transition between tasks. Another thing that could be used as visuals is **Calendars and Organizers**, maintaining a calendar or organizer is crucial for tracking deadlines, appointments, and class schedules. This tool helps students plan their time effectively and ensures they do not miss important dates or tasks.
->   
-> - ==**Providing Ample Response Time**:== Allowing students extra time to respond to questions gives them the opportunity to process information and organize their thoughts, which is crucial for effective learning.
-> - ==**Positive Reinforcement**:== Faculty can reinforce positive behaviors, such as speaking up in class or making eye contact, by providing brief acknowledgments or quick emails. This reinforcement encourages students to engage more actively in class.
-> - ==**Color-Coded Binders and Folders**:== Using color-coded binders and folders by subject can help students with ASD organize their materials and quickly locate what they need for each class. This visual organization method simplifies the process of managing multiple subjects and assignments .
+>> [!note] How Does Autism Present?
+>> Autism in Schools can present in many ways, just like how you and I are very different. 
 >
-> # Other Information
+>> [!note] What are the usual supports given to an Autistic Student?
+>> - ==**Predictable Routines**:== Faculty are encouraged to follow predictable routines in class. This helps students with ASD anticipate what will happen next, reducing anxiety and aiding in their ability to focus and learn effectively.
+>> - ==**Breaking Down Assignments**:== Large assignments should be broken into smaller, more manageable units. This method allows students to tackle tasks step-by-step, making it easier for them to organize their work and meet deadlines.
+>>    
+>> - ==**Use of Visuals**:== Incorporating visuals, such as written instructions paired with graphics, can enhance understanding and retention of information. Visual aids support students in processing information more effectively. This Includes things like **Audible Alarms and Reminders**, setting audible alarms as reminders for tasks and appointments can assist students in managing their time and staying on track with their daily activities. This tool is particularly useful for students who may struggle with time management and need prompts to transition between tasks. Another thing that could be used as visuals is **Calendars and Organizers**, maintaining a calendar or organizer is crucial for tracking deadlines, appointments, and class schedules. This tool helps students plan their time effectively and ensures they do not miss important dates or tasks.
+>> - ==**Providing Ample Response Time**:== Allowing students extra time to respond to questions gives them the opportunity to process information and organize their thoughts, which is crucial for effective learning.
+>> - ==**Positive Reinforcement**:== Faculty can reinforce positive behaviors, such as speaking up in class or making eye contact, by providing brief acknowledgments or quick emails. This reinforcement encourages students to engage more actively in class.
+>> - ==**Color-Coded Binders and Folders**:== Using color-coded binders and folders by subject can help students with ASD organize their materials and quickly locate what they need for each class. This visual organization method simplifies the process of managing multiple subjects and assignments .
+>
+>> [!note] Relationship-Building Strategies Used by Teachers
+>> - ==**Consistency, Listening, and Patience**==: Teachers emphasized the importance of being consistent, actively listening, and showing patience as general strategies to build positive relationships with autistic students .
+>> - ==**Greeting Students by Name**==: A specific strategy mentioned was greeting students by name at the door, which helps in establishing a personal connection and making students feel recognized and valued .
+>> - ==**Increased Openness, Warmth, and Closeness**==: Teachers aimed to develop positive student-teacher relationships (STRs) by being open, warm, and close with their students. This included taking an interest in students' interests, providing a sense of safety, being supportive, and accepting differences .
+>> - ==**Positive Behavioral Supports**==: Strategies such as providing positive feedback and compliments, and maintaining consistency in behavior management were highlighted as effective in fostering positive relationships .
+>> - ==**Home-School Connections/Collaboration**==: Teachers also recognized the importance of interacting with the family and getting to know them as a way to strengthen relationships with their students .
+>> - ==**Active Listening**==: Although not frequently endorsed, active listening was identified as a powerful strategy. It involves making empathetic comments, asking appropriate questions, and summarizing for verification, which can significantly enhance the quality of relationships with autistic students .
+>> - ==**Engaging in Student-Centered Discussions**==: Teachers found that engaging in discussions centered around students' interests and experiences can be effective in building strong relationships. This approach allows students to feel understood and valued.
 
 >[!tip] Resources About Autism in Schools
 >>[!faq] Video resources
