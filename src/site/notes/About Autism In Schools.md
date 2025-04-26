@@ -3,10 +3,22 @@
 ---
 
 >[!info] About Autism in Schools
->> [!note] How Does Autism Present?
->> Autism in Schools can present in many ways, just like how you and I are very different. 
->
->> [!note] What are the usual supports given to an Autistic Student?
+>> [!note]- How Does Autism Present?
+>> - There are some ways Autism presents such as
+>> 	- Repetitive behaviors (such as repetitive pen clicking, rocking, humming, etc.)
+>> 	- Struggling with social interactions with adults and peers
+>> 	- Avoiding eye contact
+>> 	- Plays alone more than with other students
+>> 	- Not doing as much pretend play than their peers
+>> - Students with Autism may 
+>> 	- Get easily angered or frustrated and act out at some situations, sounds, or textures.
+>> 	-  Have sensitivities to bright lights, loud noises, crowds, and some textures.
+>> 	- Have trouble speaking at times
+>> 	- Seem insensitive or lacking emotional empathy on the outside
+>> 	- Need a distraction free zone for tests.
+>>> 
+>>
+>> [!note]- What are the usual supports given to an Autistic Student?
 >> - ==**Predictable Routines**:== Faculty are encouraged to follow predictable routines in class. This helps students with ASD anticipate what will happen next, reducing anxiety and aiding in their ability to focus and learn effectively.
 >> - ==**Breaking Down Assignments**:== Large assignments should be broken into smaller, more manageable units. This method allows students to tackle tasks step-by-step, making it easier for them to organize their work and meet deadlines.
 >>    
@@ -15,7 +27,7 @@
 >> - ==**Positive Reinforcement**:== Faculty can reinforce positive behaviors, such as speaking up in class or making eye contact, by providing brief acknowledgments or quick emails. This reinforcement encourages students to engage more actively in class.
 >> - ==**Color-Coded Binders and Folders**:== Using color-coded binders and folders by subject can help students with ASD organize their materials and quickly locate what they need for each class. This visual organization method simplifies the process of managing multiple subjects and assignments .
 >
->> [!note] Relationship-Building Strategies Used by Teachers
+>> [!note]- Relationship-Building Strategies Used by Teachers
 >> - ==**Consistency, Listening, and Patience**==: Teachers emphasized the importance of being consistent, actively listening, and showing patience as general strategies to build positive relationships with autistic students .
 >> - ==**Greeting Students by Name**==: A specific strategy mentioned was greeting students by name at the door, which helps in establishing a personal connection and making students feel recognized and valued .
 >> - ==**Increased Openness, Warmth, and Closeness**==: Teachers aimed to develop positive student-teacher relationships (STRs) by being open, warm, and close with their students. This included taking an interest in students' interests, providing a sense of safety, being supportive, and accepting differences .
@@ -23,18 +35,31 @@
 >> - ==**Home-School Connections/Collaboration**==: Teachers also recognized the importance of interacting with the family and getting to know them as a way to strengthen relationships with their students .
 >> - ==**Active Listening**==: Although not frequently endorsed, active listening was identified as a powerful strategy. It involves making empathetic comments, asking appropriate questions, and summarizing for verification, which can significantly enhance the quality of relationships with autistic students .
 >> - ==**Engaging in Student-Centered Discussions**==: Teachers found that engaging in discussions centered around students' interests and experiences can be effective in building strong relationships. This approach allows students to feel understood and valued.
+>
+>> [!warning] 
+>> If you suggest one of your students may have Autism, reach out to your school psychologist for next steps!
 
 >[!tip] Resources About Autism in Schools
->>[!faq] Video resources
->>links here
+>>[!faq]- Video resources
+>> <iframe width="560" height="315" src="https://www.youtube.com/embed/qpl_lay9pJU?si=yZxhcqxj7froo9EV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>> <iframe width="560" height="315" src="https://www.youtube.com/embed/WYgZb3B87pw?si=jWsNj9wvTnPsqBvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>> <iframe width="560" height="315" src="https://www.youtube.com/embed/h6XDyS7hgBc?si=bgxMgdDe3YDOU3U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>> <iframe width="560" height="315" src="https://www.youtube.com/embed/c9Vbrvmeunc?si=LV8Kl15yN7SryoxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
->>[!faq] Website resources here
->> links here
+>>[!faq]- Website resources here
+>> - https://kidshealth.org/en/parents/autism-factsheet.html
+>> - https://www.nea.org/professional-excellence/student-engagement/tools-tips/context-teaching-students-autism
+>> - https://www.autism.org.uk/advice-and-guidance/professional-practice/teachers-diagnosis
+>> - https://www.nhs.uk/conditions/autism/signs/children/
+>> - https://www.cdc.gov/autism/about/index.html
+>> - https://lighthouseautismcenter.com/blog/why-autistic-children-have-difficulty-learning-regular-classroom/
+>> - https://www.crossrivertherapy.com/autism/accommodations-for-students
+>> - https://www.cde.state.co.us/cdesped/asd_guidelines
 >
->> [!faq] Other Resources here
 
 
->[!abstract] Research Articles About Autism in Schools
+
+>[!abstract]- Research Articles About Autism in Schools
 >* Park, Meungguk, and Morgan Chitiyo. “An Examination of Teacher Attitudes towards Children with Autism.” _Journal of Research in Special Educational Needs_, vol. 11, no. 1, 11 Nov. 2010, pp. 70–78, https://doi.org/10.1111/j.1471-3802.2010.01181.x.
 >	* [[Sources with Notes/Articles/An examination of teacher attitudes towards children with autism\|An examination of teacher attitudes towards children with autism]]
 >* Zeedyk, Sasha M., et al. “Educational Supports for High Functioning Youth with ASD.” _Focus on Autism and Other Developmental Disabilities_, vol. 31, no. 1, 21 Mar. 2014, pp. 37–48, https://doi.org/10.1177/1088357614525435.
