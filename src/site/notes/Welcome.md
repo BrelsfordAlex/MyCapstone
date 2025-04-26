@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"tags":["home-page","capstone","gardenEntry"],"permalink":"/welcome/","dgPassFrontmatter":true}
 ---
 
 > " **It's not about what you want/what you see in the end. It's about what you perceive the end goal is at the moment of time, and that can change** "
@@ -34,7 +34,7 @@
 	- [[About Autism In Schools\|About Autism In Schools]] Is a file that shows and links to how Autism could present in schools and some resources to help
 	- ==Each page in the Teaching Methods folder has the same Layout==
 - **What is this project made in?**
-	- I made this project using a software called ==Obsidian== ![Obsidian Link ](https://help.obsidian.md/install)
+	- I made this project using a software called ==Obsidian== (https://help.obsidian.md/install)
 
 # Where should I go next
 If you want to know more about Autism in schools go here → [[About Autism In Schools\|About Autism In Schools]]
