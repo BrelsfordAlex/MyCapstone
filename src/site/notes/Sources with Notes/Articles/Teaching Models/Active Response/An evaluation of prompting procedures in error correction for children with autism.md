@@ -162,13 +162,14 @@ Yuan, Chengan, and Jing Zhu. “An Evaluation of Prompting Procedures in Error C
 
 ## Teaching Methods Mentioned in the Paper
 
-- **Active Student Response with Echoic Prompts**: This method involves providing an echoic model (i.e., the correct verbal response) after an error is made by the student. The student is then asked to repeat the translation, and praise is given for correct responses. This correction procedure is conducted once for each error .
-    
-- **Active Student Response with Picture Prompts**: In this approach, a picture corresponding to the English word is shown to the student instead of providing an echoic model. The student is then asked to provide the Chinese translation after seeing the picture, and praise is delivered for correct responses. The trials proceed similarly to the echoic condition .
-    
-- **Error Correction Procedures**: The study compared different error correction methods, specifically focusing on active student response with echoic and picture prompts. These methods are used to facilitate skill acquisition in children with autism spectrum disorder (ASD) by correcting errors during learning tasks .
-    
-- **Reinforcement**: Reinforcers were used to encourage correct responses. A preference assessment was conducted to identify potential reinforcers, which included edible and leisure items. The most preferred reinforcer was determined based on the frequency of item selection by the participants .
-    
-
-These methods were evaluated for their effectiveness in teaching English-to-Chinese translations to children with ASD, with the study finding that picture prompts were generally more efficient in facilitating skill acquisition .
+> [!NOTE]
+> - **Active Student Response with Echoic Prompts**: This method involves providing an echoic model (i.e., the correct verbal response) after an error is made by the student. The student is then asked to repeat the translation, and praise is given for correct responses. This correction procedure is conducted once for each error.
+>     
+> - **Active Student Response with Picture Prompts**: In this approach, a picture corresponding to the English word is shown to the student instead of providing an echoic model. The student is then asked to provide the Chinese translation after seeing the picture, and praise is delivered for correct responses. The trials proceed similarly to the echoic condition.
+>     
+> - **Error Correction Procedures**: The study compared different error correction methods, specifically focusing on active student response with echoic and picture prompts. These methods are used to facilitate skill acquisition in children with autism spectrum disorder (ASD) by correcting errors during learning tasks .
+>     
+> - **Reinforcement**: Reinforcers were used to encourage correct responses. A preference assessment was conducted to identify potential reinforcers, which included edible and leisure items. The most preferred reinforcer was determined based on the frequency of item selection by the participants .
+>     
+> 
+> These methods were evaluated for their effectiveness in teaching English-to-Chinese translations to children with ASD, with the study finding that picture prompts were generally more efficient in facilitating skill acquisition .

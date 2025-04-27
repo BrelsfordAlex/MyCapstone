@@ -4,7 +4,6 @@
 
 >[!info] About Visual Hybrid and Video Modeling Teaching Strategies
 > information here
->
 
 >[!tip] Resources About Visual Hybrid and Video Modeling Teaching Strategies
 >>[!faq] Video resources

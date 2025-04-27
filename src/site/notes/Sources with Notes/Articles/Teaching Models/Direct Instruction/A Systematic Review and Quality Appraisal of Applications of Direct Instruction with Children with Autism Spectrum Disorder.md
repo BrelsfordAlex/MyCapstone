@@ -27,8 +27,6 @@ Frampton, Sarah E. “A Systematic Review and Quality Appraisal of Applications 
 
 This summary encapsulates the paper's exploration of DI's potential for ASD learners, highlighting both the promise and the challenges of integrating DI into clinical practice.
 
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-systematic-review-and-quality-appraisal-of-applications-of-y72oy08o)
-
 ## Teaching Styles in Direct Instruction for Children with ASD
 
 - **Direct Instruction (DI) Approach**: DI is a structured teaching method designed to promote mastery of educational content through high rates of active group responding. It is led by a trained teacher who follows a scripted lesson plan to ensure consistency and quality across different implementers .
@@ -56,8 +54,6 @@ This summary encapsulates the paper's exploration of DI's potential for ASD lear
 
 This teaching style is characterized by its structured, systematic approach, focusing on clear, consistent instruction and active student engagement to facilitate learning for children with ASD.
 
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-systematic-review-and-quality-appraisal-of-applications-of-y72oy08o)
-
 ## Limitations of Direct Instruction for Children with ASD
 
 - **Conservative Assessment of Study Quality**: The review highlights that the dichotomous reporting of "met" or "not met" with respect to CEC standards may lead to an overly conservative assessment of study quality. This could potentially overlook nuanced aspects of the studies that partially meet the criteria .
@@ -75,7 +71,6 @@ This teaching style is characterized by its structured, systematic approach, foc
 
 These limitations highlight the challenges in adopting DI for children with ASD, emphasizing the need for broader research, increased practitioner education, and more comprehensive training resources.
 
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-systematic-review-and-quality-appraisal-of-applications-of-y72oy08o)
 
 ## Key Components of Direct Instruction (DI)
 
@@ -92,11 +87,9 @@ These limitations highlight the challenges in adopting DI for children with ASD,
 
 These components are designed to work together to create a structured and effective learning environment, ensuring that students receive consistent and high-quality instruction throughout the learning process.
 
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-systematic-review-and-quality-appraisal-of-applications-of-y72oy08o)
-
 ## Comparison of Direct Instruction (DI) to Other Methods
 
-- **Effectiveness**: Direct Instruction (DI) is recognized as one of the most effective instructional approaches in the education literature. It has been implemented with thousands of students and is designed to promote mastery of educational content through high rates of active group responding led by a trained teacher .
+- **Effectiveness**: Direct Instruction (DI) is recognized as one of the most effective instructional approaches in the education literature. It has been implemented with thousands of students and is designed to promote mastery of educational content through high rates of active group responding led by a trained teacher.
     
 - **Structure and Consistency**: DI is characterized by its highly structured and scripted lessons, which ensure consistent delivery across different implementers. This contrasts with other methods that may allow for more flexibility and variability in teaching styles and lesson delivery .
     
@@ -107,8 +100,3 @@ These components are designed to work together to create a structured and effect
 - **Evidence-Based Practice**: DI has recently met criteria for consideration as an evidence-based practice for learners with Autism Spectrum Disorder (ASD). This recognition is important for encouraging its wider use in various contexts, particularly in behavior analytic services. Other methods may not have the same level of evidence-based recognition, especially in specific contexts like ASD .
     
 - **Adoption in Practice**: Despite its effectiveness, DI is not commonly used in behavior analytic services for learners with ASD, possibly due to unfamiliarity among practitioners. This contrasts with other methods that might be more widely adopted due to their inclusion in standard curricula or more frequent coverage in mainstream journals .
-    
-
-In summary, DI stands out for its structured approach, immediate feedback, and grounding in learning principles, making it highly effective. However, its adoption in practice, particularly in behavior analytic services, may be limited compared to other methods due to factors like practitioner familiarity and curriculum inclusion.
-
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-systematic-review-and-quality-appraisal-of-applications-of-y72oy08o)
