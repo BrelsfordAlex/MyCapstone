@@ -247,7 +247,7 @@ The Visual Hybrid Development Learning System (VHDLS) is a framework designed to
 
 Overall, the VHDLS framework is a comprehensive approach to developing educational tools that cater to the unique learning needs of children with autism, emphasizing visual engagement and personalized learning experiences.
 
-[(link)](/library/teaching-methods-pdfs-64ehincl/visual-hybrid-development-learning-system-vhdls-framework-5dym47c5)
+
 
 ## Most Effective Visual Themes in VHDLS
 

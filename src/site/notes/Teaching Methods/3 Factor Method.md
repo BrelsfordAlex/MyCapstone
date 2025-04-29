@@ -3,13 +3,13 @@
 ---
 
 > [!abstract] About Three Factor Method
-> > [!todo] ## What is the Three Factor Method?
+> > [!todo]  What is the Three Factor Method?
 > > >[!note]  The Principles of the Three Factor Method
 > > > - Factor One: Educators must familiarize themselves with the evolving neurodiversity scholarship. This involves understanding the latest research and theoretical frameworks related to neurodiversity.  (Sewell and Park)
 > >> - Factor Two: Teachers need to align this research knowledge with individual assessment data gathered from a strengths-based perspective. This means integrating insights from strengths-based assessments to better understand each learner's unique profile.  (Sewell and Park)
 > >> - Factor Three: The final step involves translating this knowledge into contextualized teaching strategies. This requires teachers to consider both individual and contextual strengths when developing interventions.  (Sewell and Park)
 >
->>[!todo]-  ## Understanding the Three-Factor Model 
+>>[!todo]-  Understanding the Three-Factor Model 
 >>The three-factor model is a framework designed to guide teachers in effectively educating neurodiverse learners by integrating various critical elements. Here's a detailed breakdown of the model:
 >>
 >>- Factor One: Knowledge of Research Literature
@@ -25,7 +25,7 @@
 >>
 >>Such case examples illustrate the practical application of the model, showcasing how tailored strategies can lead to improved educational outcomes and foster a more inclusive learning environment.  (Sewell and Park)
 > 
->> [!todo]- ## How the Three-Factor Model Supports Autistic Students
+>> [!todo]- How the Three-Factor Model Supports Autistic Students
 >> 
 >> The three-factor model proposed in the paper is designed to help teachers effectively support autistic students by integrating research, assessment, and contextual factors. Here's how each factor contributes:
 >> 
@@ -41,7 +41,7 @@
 >> Overall, the three-factor model helps teachers create a supportive and inclusive learning environment for autistic students by integrating research, personalized assessment, and contextual considerations into their teaching strategies. This approach not only addresses the educational needs of autistic students but also fosters their strengths and potential
 >
 >
-> > [!NOTE]- ## How the Three-Factor Model Assists Teachers
+> > [!NOTE]- How the Three-Factor Model Assists Teachers
 > > 
 > > The three-factor model is designed to support teachers in effectively educating neurodiverse learners, including those with autism and ADHD, by integrating research, assessment, and contextual factors. Here's how it helps teachers:
 > > 
@@ -59,7 +59,7 @@
 > > 
 > > Overall, the three-factor model equips teachers with a structured approach to bridge the gap between theoretical research and practical application, ultimately enhancing their ability to support neurodiverse learners in a strengths-based and contextually relevant manner.
 > 
-> > [!NOTE]- ## Objectives of the Three-Factor Model
+> > [!NOTE]- Objectives of the Three-Factor Model
 > > 
 > > The three-factor model is designed to address several key challenges in teaching neurodiverse learners from a strengths-based perspective. Here are the main aims of the model:
 > > 
@@ -88,9 +88,9 @@
 >> https://www.centralsquarefoundation.org/CSF-RTI-A-i-i-guide-compressed.pdf
 >> https://foundationallearning.in/knowledge-center/blogs/assessment-informed-instruction-101-a-guide-for-practitioners
 >> 
->> [!faq] Other Resources here
->>> [!check]- Informational Worksheets
->>> 
+>>> [!faq] Other Resources here
+>>>> [!check]- Informational Worksheets
+>>>> 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/pd-fs-and-images-and-stuff/teaching-method-work-sheets/3-factor/assessing-childs-strengths/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -106,7 +106,7 @@
 
 </div></div>
 
->>> 	When using this you can give it to all of your students and be able to gear class instructions based upon what they say their strengths and weaknesses are. If the autistic student struggles with socializing and there is a student that feels like they like a quieter environment you could sit these two next to each other to help both students
+>>>> 	When using this you can give it to all of your students and be able to gear class instructions based upon what they say their strengths and weaknesses are. If the autistic student struggles with socializing and there is a student that feels like they like a quieter environment you could sit these two next to each other to help both students
 
 
 >[!abstract] Research Articles About the Three Factor Model

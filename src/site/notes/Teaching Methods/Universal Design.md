@@ -3,7 +3,7 @@
 ---
 
 > [!abstract] About Universal Design
-> > [!todo] ## What is Universal Design?
+> > [!todo] What is Universal Design?
 >  **==Universal Design==** is the process of creating a classroom environment that are accessible to people with a wide range of abilities, disabilities, and other characteristics. 
 > >  the basics of Universal design in education is the idea that a teacher can create an environment that is accessible to all students in some way. Some examples of this is *adding fidgets*, *allowing students to move around in the classroom*, giving multiple ways to engage in learning ==**(things such as *giving the notes to students*, *assignments and projects with multiple ways to do do the assignments and projects*, *allowing for students to listen to music or have noise canceling headphones when needed*, *having low energy areas allowing for students to recharge*, etc)**==
 > > >[!note]-  The Principles of Universal Design

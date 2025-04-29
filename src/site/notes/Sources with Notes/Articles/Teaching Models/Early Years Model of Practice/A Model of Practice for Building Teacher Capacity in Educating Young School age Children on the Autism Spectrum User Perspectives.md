@@ -202,11 +202,6 @@ The teaching method described in the article revolves around the Early Years Mod
 - **Implementation and Support**: The model was field-tested with teachers who had students on the spectrum in their classrooms. Teachers received varying levels of professional support, including face-to-face and online assistance, to facilitate the implementation of the EY-MoP .
     
 - **Impact on Teaching Practice**: Teachers reported that the EY-MoP enhanced their understanding of theoretical concepts and practical application in the classroom. It was recognized as a logical and common-sense approach that aligned with existing practices and supported diverse learning needs .
-    
-
-Overall, the EY-MoP serves as a foundational resource that aids teachers in creating inclusive and supportive learning environments for students on the autism spectrum, while also being applicable to students with diverse learning needs .
-
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-model-of-practice-for-building-teacher-capacity-in-fzrlf775)
 
 ## Effective Implementation of the EY-MoP by Teachers
 
@@ -225,10 +220,6 @@ Teachers implemented the Early Years Model of Practice (EY-MoP) effectively thro
 - **Reflective Tool**: The EY-MoP was used as a reflective tool, aiding teachers in planning and evaluating their teaching practices. This reflective aspect helped teachers enhance their knowledge and confidence in supporting students on the spectrum .
     
 
-These strategies collectively contributed to the effective implementation of the EY-MoP, enabling teachers to create supportive and inclusive learning environments for young children on the autism spectrum.
-
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-model-of-practice-for-building-teacher-capacity-in-fzrlf775)
-
 ## Most Beneficial Resources in the EY-MoP
 
 The Early Years Model of Practice (EY-MoP) provided several resources that teachers found particularly beneficial:
@@ -244,9 +235,6 @@ The Early Years Model of Practice (EY-MoP) provided several resources that teach
 - **Professional Support**: While not a direct resource within the EY-MoP, the professional support provided alongside the model was crucial. Teachers who received face-to-face support found it particularly beneficial, as it helped them understand and implement the practice briefs more effectively .
     
 
-These resources collectively enhanced teachers' ability to support students on the autism spectrum, making the EY-MoP a valuable tool in their educational practices.
-
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-model-of-practice-for-building-teacher-capacity-in-fzrlf775)
 
 ## Types of Schools Where Teachers Worked
 
@@ -260,10 +248,6 @@ The teachers involved in the study worked in various types of schools, as detail
     
 - **Schools Across Eastern States**: The study included teachers from 23 schools across the three eastern states of Australia, providing a diverse geographical representation within the sample .
     
-
-These details highlight the diverse educational settings in which the teachers operated, providing a broad context for the application of the EY-MoP in supporting students on the autism spectrum.
-
-[(link)](/library/teaching-methods-pdfs-64ehincl/a-model-of-practice-for-building-teacher-capacity-in-fzrlf775)
 
 ## Evidence Supporting the Viability of EY-MoP
 

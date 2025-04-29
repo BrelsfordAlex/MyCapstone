@@ -3,7 +3,7 @@
 ---
 
 > [!abstract] About 
-> > [!todo] ## What is Direct Instruction(DI)?
+> > [!todo]  What is Direct Instruction(DI)?
 >  Direct Instruction is the atypical instruction you would think a teacher should be teaching. The teaching standing in front of the classroom, giving guided instructions to the students who are sitting paying attention. 
 > Some things are best learned in this way, such as some Science topics and some Math topics
 > > >[!note] The Principles of Direct Instruction

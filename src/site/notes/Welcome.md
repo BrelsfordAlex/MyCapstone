@@ -38,4 +38,4 @@
 
 # Where should I go next
 If you want to know more about Autism in schools go here → [[About Autism In Schools\|About Autism In Schools]]
-If you want to explore the teaching methods I have found, click any of them on the side tab on the left.
+If you want to explore the teaching methods I have found, click any of them on the side tab on the left in the folder labeled "Teaching Methods"

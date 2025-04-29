@@ -237,11 +237,11 @@ The paper discusses several teaching methods used for autistic individuals, part
         
 - **Video Modeling:**
     
-    - Video modeling is an evidence-based practice that involves demonstrating a desired behavior or skill through video. It is frequently used for skill acquisition in autistic individuals .
+    - Video modeling is an evidence-based practice that involves demonstrating a desired behavior or skill through video. It is frequently used for skill acquisition in autistic individuals.
         
 - **Visual Supports:**
     
-    - Visual supports are another evidence-based practice based on the principles of behavior analysis. They are used to help autistic individuals acquire new skills by providing visual cues and aids .
+    - Visual supports are another evidence-based practice based on the principles of behavior analysis. They are used to help autistic individuals acquire new skills by providing visual cues and aids.
         
 - **Applied Behavior Analysis (ABA):**
     
